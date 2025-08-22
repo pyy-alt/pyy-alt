@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm pyy 👨‍💻 - Frontend Developer
 
-<!--
-**pyy-alt/pyy-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+😄 **Active and coding!** 😄
 
-Here are some ideas to get you started:
+## Highlights
+* 🌟 Open Source Contributor
+* 💻 Frontend Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Organizations
+@MyFrontendTeam @OpenWebProjects @CreativeDesignOrg
+
+## Pinned Loading
+*(No public projects yet, stay tuned!)*
+
+### Projects
+*(Currently working on private projects, check back later for updates!)*
+
+## Skills
+- **Languages**: HTML, CSS, JavaScript (ES6+), TypeScript (TS)
+- **Frameworks**: React, Next.js, Vue.js, Nest.js
+- **CSS Frameworks**: Tailwind CSS, Bootstrap, Styled-Components
+- **Tools**: Git, Webpack, Vite, Figma, VS Code, ESLint, Prettier
+- **Build Tools**: Vite, Rollup
+- **Other**: Responsive Design, Accessibility, State Management (Redux, Pinia), Web Performance Optimization
+
+## Connect with Me
+- [Email](yingmukoulan@gmail.com)
+- [LinkedIn](https://linkedin.com/in/pyy)
+- [Twitter](https://x.com/pyyalt)
+
+✨ **Fun fact**: I code better with a cup of tea! ☕
+
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pyy&show_icons=true)
