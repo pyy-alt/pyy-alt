@@ -1,12 +1,13 @@
 # pyy-alt
 
 <div align="center">
-  <h2>前端与全栈开发者 | 自 2018 年活跃于 GitHub</h2>
+  <h1>前端与全栈开发者</h1>
+  <p>自 2018 年起活跃于 GitHub · 专注现代 Web 与跨端开发</p>
 </div>
 
 ## About Me
 
-GitHub 用户，自 2018 年起在平台活跃。专注于前端开发与全栈项目实践，主要使用 HTML、TypeScript、JavaScript、Vue 等技术。近期以维护者身份参与开源协作，在 Issue 处理上贡献显著，过去 90 天内有 13 天活跃记录，主要活跃于 HTML 相关仓库。
+GitHub 用户，自 2018 年加入平台。长期从事前端与全栈开发实践，熟练掌握 HTML、TypeScript、JavaScript、Vue、React 等核心技术。近期以维护者角色参与开源协作，在 Issue 处理上贡献突出，过去 90 天内活跃 13 天，主要活跃语言为 HTML。
 
 ## Tech Stack
 
@@ -17,8 +18,11 @@ GitHub 用户，自 2018 年起在平台活跃。专注于前端开发与全栈�
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
-### Frameworks
+### Frameworks & Libraries
 ![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ## GitHub Stats
 
