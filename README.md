@@ -2,12 +2,12 @@
 
 <div align="center">
   <h1>前端与全栈开发者</h1>
-  <p>自 2018 年起活跃于 GitHub · 专注现代 Web 与跨端开发</p>
+  <p>自 2018 年活跃于 GitHub | 专注现代 Web 与跨端开发</p>
 </div>
 
 ## About Me
 
-GitHub 用户，自 2018 年加入平台。长期从事前端与全栈开发实践，熟练掌握 HTML、TypeScript、JavaScript、Vue、React 等核心技术。近期以维护者角色参与开源协作，在 Issue 处理上贡献突出，过去 90 天内活跃 13 天，主要活跃语言为 HTML。
+GitHub 用户，自 2018 年起在平台活跃。专注于前端与全栈开发实践，熟练使用 HTML、TypeScript、JavaScript、Vue、React 等技术栈。近期以维护者身份参与开源协作，在 Issue 处理方面贡献显著，过去 90 天内活跃 13 天，主要活跃语言为 HTML。
 
 ## Tech Stack
 
